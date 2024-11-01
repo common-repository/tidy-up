@@ -1,0 +1,93 @@
+.deathbutton
+{
+border: 1px solid red !important;
+background-color: pink !important;
+}
+
+.goodbutton
+{
+border: 1px solid green !important;
+background-color: lightgreen !important;
+}
+
+.ok h3
+{
+background-color: #A8E952;
+padding: 5px;
+margin: 0;
+margin-bottom: 10px;
+}
+
+.ok pre
+{
+padding: 0; margin: 0;
+background-color: #D3F5A6;
+padding: 5px;
+margin-bottom: 10px;
+}
+
+.warning h3
+{
+background-color: #5ED4D8;
+padding: 5px;
+margin: 0;
+}
+
+.warning pre
+{
+padding: 0; margin: 0;
+background-color: #C3F8FA;
+padding: 5px;
+margin-bottom: 10px;
+}
+
+.err h3
+{
+background-color: red;
+padding: 5px;
+margin: 0;
+}
+
+.err pre
+{
+padding: 0; margin: 0;
+background-color: pink;
+padding: 5px;
+margin-bottom: 10px;
+}
+
+.edit
+{
+background-color: #DADF56;
+}
+
+.edit h3
+{
+background-color: #B0B42B;
+padding: 5px;
+}
+
+.edit textarea
+{
+width: 95%;
+margin-left: 5px;
+}
+
+.editbuttons
+{
+padding: 5px;
+}
+
+.special
+{
+  float: right;
+  font-size: 1em;
+  padding: 5px;
+}
+
+.report
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
